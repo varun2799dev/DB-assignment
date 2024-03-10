@@ -1,0 +1,3 @@
+Ans 1. Based on the given diagram, the Product entity has a one-to-many relationship with the Product_Category entity. This means that each product can be associated with only one product category, but a product category can have multiple products associated with it.
+
+Ans 2. For ensuring that each product in the Product table has a product category assigned to it you can use the foreign key constraint which makes a connection between both tables.
